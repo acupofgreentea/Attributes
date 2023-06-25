@@ -339,6 +339,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   demoSo: {fileID: 11400000, guid: 200a847007395cb46aa07a79ee027637, type: 2}
+  hideBool: 0
+  hideIfInt: 0
+  showIfInt: 0
 --- !u!4 &1446156988
 Transform:
   m_ObjectHideFlags: 0

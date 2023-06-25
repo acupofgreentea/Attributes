@@ -3,7 +3,7 @@ using UnityEngine;
 namespace Attributes.Drawers
 {
     using UnityEditor;
-
+    
     [CustomPropertyDrawer(typeof(ExposedSOAttribute))]
     public class ExposedSOAttributeDrawer : PropertyDrawer
     {
